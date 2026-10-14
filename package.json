@@ -1,0 +1,19 @@
+{
+  "name": "demo_ant_2026",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "cypress": "^16.1.1",
+    "cypress-qase-reporter": "^3.7.0"
+  },
+  "dependencies": {
+    "cypress-multi-reporters": "^2.0.5"
+  }
+}
