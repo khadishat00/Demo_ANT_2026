@@ -1,0 +1,7 @@
+# Qase reporting
+
+# Create at Qase → Settings → API tokens
+QASE_TESTOPS_API_TOKEN=
+
+# Project code shown in Qase, e.g. DEMO
+QASE_TESTOPS_PROJECT=
